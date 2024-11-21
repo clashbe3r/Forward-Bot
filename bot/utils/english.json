@@ -1,0 +1,14 @@
+{
+    "admin_welcome_text": "Howdy, admin. I'm online!",
+    "notification_text": "Hey, you are not allowed use this bot. Contact admins to get permission!",
+    "check_inbox_text": "Okay, check your inbox, to complete the setup!",
+    "verify_inbox_text": "Do you want add?\nGroup Name: {group_name}\nGroup ID: {group_id}",
+    "setup_complete_group_text": "Setup complete!\nI'll forward the messages to this group as well. \uD83D\uDE03",
+    "setup_complete_inbox_text": "Setup complete!\nI'll forward the messages to the group. \uD83D\uDE03",
+    "group_added_notification_text": "{mention} added new group.\nGroup Name: {group_name}\nGroup ID: {group_id}",
+    "sent": "sent",
+    "channel_added_text": "Okay, I'll forward messages from this channel, this message will be auto deleted after 5 seconds!",
+    "another_channel_added_text": "Another channel is already added as source, please remove that first from inbox to add new channel. This message will be auto deleted after 5 seconds!",
+    "channel_removed_text": "Channel removed from source!",
+    "group_removed_text": "Group removed from target list!"
+}

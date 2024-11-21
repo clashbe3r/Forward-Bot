@@ -1,0 +1,12 @@
+{
+    "api_id": "Put your api id here",
+    "api_hash": "put your api hash here",
+    "bot_token": "put your bot token here",
+    "admins": [
+    ],
+    "source_channel_id": 0,
+    "target_group_ids": [
+    ],
+    "admin_verification": false,
+    "no_notification_admins": []
+}
