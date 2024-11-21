@@ -12,5 +12,5 @@ Channel A will be source an destination will be all the Group Chats the bot is a
 - install the dependencies by running `pip3 install -r requirements.txt` or `pip install -r requirements.txt`
 - run the bot by sending `python3 -m bot` or `python -m bot`
 
-Follow me on Twitter twitter.com/clashbe3r 
-Join On telegram: t.me/NodeHopper
+Follow me on Twitter https://twitter.com/clashbe3r 
+Join On telegram: https://t.me/NodeHopper
